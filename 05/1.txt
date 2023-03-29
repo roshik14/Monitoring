@@ -1,0 +1,37 @@
+Total number of folders (including all nested ones) = 144
+TOP 5 folders of maximum size arranged in descending order (path and size):
+1 - /home/student/DO3_LinuxMonitoring_v1.0-0/, 3.0Mb
+2 - /home/student/DO3_LinuxMonitoring_v1.0-0/.git/, 2.3Mb
+3 - /home/student/DO3_LinuxMonitoring_v1.0-0/.git/objects/, 2.2Mb
+4 - /home/student/DO3_LinuxMonitoring_v1.0-0/.git/objects/pack/, 756Kb
+5 - /home/student/DO3_LinuxMonitoring_v1.0-0/.git/objects/20/, 680Kb
+Number of:
+Configuration files (with the .conf extension) = 2
+Text files = 162
+Executable files = 17
+Log files (with the extension .log) = 0
+Archive files = 0
+Symbolic links = 0
+TOP 10 files of maximum size arranged in descending order (path, size and type):
+1 - /home/student/DO3_LinuxMonitoring_v1.0-0/.git/objects/20/bd24bb3bd7614afd8aa11e36bb21ad2a6ca93d/, 676Kb, zip
+2 - /home/student/DO3_LinuxMonitoring_v1.0-0/.git/objects/pack/pack-48a2d161b5c7ad8566d0bc3cf525ef51557ca7e6.pack/, 616Kb, pack
+3 - /home/student/DO3_LinuxMonitoring_v1.0-0/.git/objects/pack/pack-01ff3d85301fbb1e053feca5f5b0253b9b6dfbe3.pack/, 56Kb, pack
+4 - /home/student/.viminfo/, 40Kb, txt
+5 - /home/student/DO3_LinuxMonitoring_v1.0-0/.git/objects/pack/pack-c8e807469ef4e94e622f2ab7e47625a9372fe54f.pack/, 24Kb, pack
+6 - /home/student/DO3_LinuxMonitoring_v1.0-0/.git/objects/pack/pack-169eb9a6592d3ae6a92cd95773ccd88d27a6bb22.pack/, 24Kb, pack
+7 - /home/student/DO3_LinuxMonitoring_v1.0-0/README_RUS.md/, 20Kb, txt
+8 - /home/student/DO3_LinuxMonitoring_v1.0-0/.git/index/, 16Kb, git/index
+9 - /home/student/DO3_LinuxMonitoring_v1.0-0/README.md/, 12Kb, txt
+10 - /home/student/.bash_history/, 12Kb, bash_history
+TOP 10 executable files of the maximum size arranged in descending order (path, size and MD5 hash of file)
+1 - /home/student/DO3_LinuxMonitoring_v1.0-0/.git/hooks/pre-rebase.sample/, 8.0Kb, 56e45f2bcbc8226d2b4200f7c46371bf
+2 - /home/student/DO3_LinuxMonitoring_v1.0-0/src/05/main.sh/, 4.0Kb, 4a2e81efb684fd03933d31c70a4600f3
+3 - /home/student/DO3_LinuxMonitoring_v1.0-0/src/04/main.sh/, 4.0Kb, dd70a486afca0a43e2f2cda2a4f71abb
+4 - /home/student/DO3_LinuxMonitoring_v1.0-0/src/03/main.sh/, 4.0Kb, 439aa73ad0745e1ded3ef2c39f31434b
+5 - /home/student/DO3_LinuxMonitoring_v1.0-0/src/02/main.sh/, 4.0Kb, d19bc0dfb1e61a81458b93cfcf109f53
+6 - /home/student/DO3_LinuxMonitoring_v1.0-0/src/01/main.sh/, 4.0Kb, 48fa8439bd79be2c7e027adc95812620
+7 - /home/student/DO3_LinuxMonitoring_v1.0-0/.git/hooks/update.sample/, 4.0Kb, 517f14b9239689dff8bda3022ebd9004
+8 - /home/student/DO3_LinuxMonitoring_v1.0-0/.git/hooks/pre-receive.sample/, 4.0Kb, 2ad18ec82c20af7b5926ed9cea6aeedd
+9 - /home/student/DO3_LinuxMonitoring_v1.0-0/.git/hooks/pre-push.sample/, 4.0Kb, 3c5989301dd4b949dfa1f43738a22819
+10 - /home/student/DO3_LinuxMonitoring_v1.0-0/.git/hooks/prepare-commit-msg.sample/, 4.0Kb, 2b5c047bdb474555e1787db32b2d2fc5
+Script execution time (in seconds) = 0.9
