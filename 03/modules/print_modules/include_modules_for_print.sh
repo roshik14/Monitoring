@@ -1,0 +1,12 @@
+. ./modules/content_modules/hostname.sh
+. ./modules/content_modules/timezone.sh
+. ./modules/content_modules/user.sh
+. ./modules/content_modules/os.sh
+. ./modules/content_modules/date.sh
+. ./modules/content_modules/uptime.sh
+. ./modules/content_modules/uptime_in_sec.sh
+. ./modules/content_modules/ip.sh
+. ./modules/content_modules/netmask.sh
+. ./modules/content_modules/gateway.sh
+. ./modules/content_modules/ram_modules/ram.sh
+. ./modules/content_modules/space_modules/space.sh
